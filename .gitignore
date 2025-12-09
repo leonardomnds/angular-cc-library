@@ -6,6 +6,8 @@ dist/
 .DS_Store
 npm-debug.log
 compiled/
+.env
+.env.local
 *.metadata.json
 *.ngFactory.ts
 *.js
